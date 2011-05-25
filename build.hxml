@@ -1,0 +1,4 @@
+#build file
+-cp src
+-main OWMHInterfacer
+-x bin/OWMHInterfacer.n
