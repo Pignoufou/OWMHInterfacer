@@ -1,4 +1,4 @@
 #build file
 -cp src
--main OWMHInterfacer
+-main owmh.interfacer.tests.Tests
 -x bin/OWMHInterfacer.n
