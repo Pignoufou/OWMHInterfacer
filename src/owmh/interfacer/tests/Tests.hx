@@ -4,6 +4,6 @@ class Tests
 {
 	public static function main()
 	{
-		trace("Running");
+		trace("Running OWMH Interfacer");
 	}
 }
